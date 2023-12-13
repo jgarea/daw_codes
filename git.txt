@@ -1,0 +1,9 @@
+git config --global user.name "jgarea"
+git config --global user.email "jgntra@gmail.com"
+git config --global alias.tree "log --graph --decorate --all --oneline"
+git config --global init.defaultBranch main
+
+-----
+
+en Windows:  dir /a:h
+en Linux: ls -la

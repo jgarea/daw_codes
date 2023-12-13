@@ -7,3 +7,16 @@ git config --global init.defaultBranch main
 
 en Windows:  dir /a:h
 en Linux: ls -la
+
+Programador: Juan Eugenio Antón Area
+Propósito del algoritmo: 
+Fecha: 13/12/2023
+
+Funciones:
+Este procedimiento o función calcula las raices...
+Parámetros de entrada: ...
+Parámetros de salida: ... cadena con la solución.
+
+//Solicitamos la entrada al usuario
+
+//Comprobamos si al ecuacion tiene raices
